@@ -884,7 +884,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .list__thumbnail img {
 	width: 100%;
-	max-width: 235px;
+	max-width: 435px;
+	min-width: 20px;
 }
 
 .list__footer-readmore {
